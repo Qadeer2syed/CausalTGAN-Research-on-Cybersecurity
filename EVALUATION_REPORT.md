@@ -184,19 +184,3 @@ This trade-off results in better ML performance and class balance at the cost of
 
 5. **Causal feature selection is effective**: All CRFS features show <4% deviation, suggesting focus on discriminative features.
 
-
-## References
-
-1. Ammara, D.A., Ding, J., & Tutschku, K. (2025). "Synthetic Network Traffic Data Generation: A Comparative Study." *arXiv:2410.16326v2*.
-
-2. Xu, L., et al. (2019). "Modeling Tabular Data using Conditional GAN." *NeurIPS 2019*.
-
-3. Tavallaee, M., et al. (2009). "A Detailed Analysis of the KDD Cup 99 Data Set." *IEEE CISDA*.
-
----
-
-**Overall Score: 84.5/100**
-- Data Structure: 100/100
-- Correlation: 100/100
-- Probability Distribution: 39.5/100
-- ML Utility: 98.66/100
